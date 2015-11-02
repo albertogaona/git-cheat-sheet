@@ -7,17 +7,28 @@ $ git clone ssh://user@domain.com/repository.git
 ```
 
 Create a new local repository
-`$ git init`
+```
+$ git init
+```
 
 See current branch and changed/new files in your working directory
-`$ git status`
+```
+$ git status
+```
 
 Changes to tracked files
-`$ git diff`
+```
+$ git diff
+```
 
 Add all current changes to the next commit
-`$ git add -A`
+```
+$ git add -A
+```
 
 Commit changes 
-`$ git commit -m "Comment"`
+```
+$ git commit -m "Comment"
+```
+
 
