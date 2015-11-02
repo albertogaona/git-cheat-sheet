@@ -2,7 +2,9 @@
 Common-use git commands
 
 Clone existing repository
-`$ git clone ssh://user@domain.com/repository.git`
+```
+$ git clone ssh://user@domain.com/repository.git
+```
 
 Create a new local repository
 `$ git init`
